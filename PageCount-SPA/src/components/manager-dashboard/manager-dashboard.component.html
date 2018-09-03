@@ -1,0 +1,29 @@
+<div *ngIf="!resultsMode && !operatorsMode && !pageCountMode" class="form-group text-center">
+  <button class="btn btn-default mr-2" type="submit" (click)="resultsToggle()">Page Counts</button>
+  <button class="btn btn-default mr-2" type="submit" (click)="operatorsToggle()" [routerLink]="['./operators']" >Operators</button>
+  <button class="btn btn-default" type="submit" (click)="pageCountFormToggle()">Enter Page Count</button>
+</div>
+
+<div *ngIf="pageCountMode" class="container">
+  <div class="row justify-content-center">
+    <div class="col-4">
+      <app-pagecount (cancelPageCount)="cancelPageCountMode($event)"></app-pagecount>  
+    </div>
+  </div>
+</div>
+
+<div *ngIf="operatorsMode" class="container">
+  <div class="row justify-content-center">
+    <div >
+      <app-operators (cancelOperators)="cancelOperatorsMode($event)"></app-operators>  
+    </div>
+  </div>
+</div>
+
+<div *ngIf="resultsMode" class="container">
+  <div class="row justify-content-center">
+    <div class="col-4">
+      <app-results (cancelResults)="cancelResultsMode($event)"></app-results>  
+    </div>
+  </div>
+</div>

@@ -1,0 +1,25 @@
+.img-thumbnail {
+    margin:25px;
+    width: 85%;
+    height: 85%;
+}
+
+.card-body {
+    padding: 0 25px;
+}
+
+td,th {
+  text-align: center;
+  
+}
+th {
+    cursor: pointer;
+}
+table {
+    width:100%
+}
+
+.SortToggle{
+    cursor: pointer;
+    font-weight: bold;
+}

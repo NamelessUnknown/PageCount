@@ -1,0 +1,28 @@
+<div class="container mt-5">
+  <div *ngIf="!registerMode && !pageCountMode" style="text-align: center">
+    <h1>Page Count App</h1>
+    <p class="lead">Statistics, analysis, results</p>
+    <div class="text-center">
+      <button class="btn btn-primary btn-lg" (click)="pageCountFormToggle()">Enter Your Page Count</button>
+    </div>
+    <div class="text-center">
+      <button class="btn btn-info btn-lg mt-3" (click)="registerToggle()">Register</button>
+    </div>
+  </div>
+
+  <div *ngIf="registerMode" class="container">
+    <div class="row justify-content-center">
+      <div class="col-4">
+        <app-register (cancelRegister)="cancelRegisterMode($event)"></app-register>  
+      </div>
+    </div>
+  </div>
+
+  <div *ngIf="pageCountMode" class="container">
+    <div class="row justify-content-center">
+      <div class="col-4">
+        <app-pagecount (cancelPageCount)="cancelPageCountMode($event)"></app-pagecount>  
+      </div>
+    </div>
+  </div>
+</div>

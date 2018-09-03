@@ -1,0 +1,44 @@
+<div class="text-center mt-5">Result from {{result.dateAdded | date: 'dd-MM-yyyy' }}</div>
+<div class="text-center mt-2">{{result.shift == 1? "Morning Shift" : (result.shift == 2? "Afternoon Shift" : "Night Shift") }}</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-3 text-center">
+      <div [hidden]="!pagesChart">
+        <canvas id="canvasPages" width="250" height="250" class="mt-5">{{ pagesChart }}</canvas>
+      </div>
+    </div>
+    <div class="col-sm-3 text-center">
+        <div [hidden]="!pagesChart">
+          <canvas id="canvasAssociations" width="250" height="250" class="mt-5">{{ associationsChart }}</canvas>
+        </div>
+    </div>
+    <div class="col-sm-3 text-center">
+      <div [hidden]="!adsChart">
+          <canvas id="canvasAds" width="250" height="250" class="mt-5">{{ adsChart }}</canvas>
+        </div>
+    </div>
+    <div class="col-sm-3 text-center">
+      <div [hidden]="!adsTimeChart">
+          <canvas id="canvasTimeAds" width="250" height="250" class="mt-5">{{ adsTimeChart }}</canvas>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+      <div class="col-sm-3 text-center">
+        {{ pagesPercent }} % of total
+      </div>
+      <div class="col-sm-3 text-center">
+        {{ associationsPercent }} % of total
+      </div>
+      <div class="col-sm-3 text-center">
+        {{ adsPercent }} % of total
+      </div>
+      <div class="col-sm-3 text-center">
+        {{ adsTimePercent }} % of total
+      </div>
+  </div>
+</div>

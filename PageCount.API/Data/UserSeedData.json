@@ -1,0 +1,922 @@
+[
+  {
+    "Username": "Best",
+    "Name": "Best",
+    "Surname": "Waters",
+    "Email": "thomassanders@earthwax.com",
+    "Password": "password",
+    "Department": 3,
+    "RegisteredSince": "2016-10-11",
+    "LastActive": "2016-10-11",
+    "Results": [
+      {
+        "DateAdded": "2018-09-04",
+        "Shift": 1,
+        "Pages": 36,
+        "Associations": 28,
+        "Ads": 155,
+        "TimeSpentOnAds": 9757
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 2,
+        "Pages": 136,
+        "Associations": 14,
+        "Ads": 46,
+        "TimeSpentOnAds": 16323
+      },
+      {
+        "DateAdded": "2018-09-05",
+        "Shift": 3,
+        "Pages": 948,
+        "Associations": 6,
+        "Ads": 279,
+        "TimeSpentOnAds": 11052
+      },
+      {
+        "DateAdded": "2018-09-02",
+        "Shift": 1,
+        "Pages": 74,
+        "Associations": 20,
+        "Ads": 18,
+        "TimeSpentOnAds": 17699
+      },
+      {
+        "DateAdded": "2018-09-04",
+        "Shift": 3,
+        "Pages": 966,
+        "Associations": 25,
+        "Ads": 151,
+        "TimeSpentOnAds": 1986
+      },
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 3,
+        "Pages": 1198,
+        "Associations": 4,
+        "Ads": 164,
+        "TimeSpentOnAds": 12123
+      },
+      {
+        "DateAdded": "2018-09-01",
+        "Shift": 1,
+        "Pages": 979,
+        "Associations": 15,
+        "Ads": 135,
+        "TimeSpentOnAds": 13851
+      },
+      {
+        "DateAdded": "2018-09-02",
+        "Shift": 3,
+        "Pages": 856,
+        "Associations": 30,
+        "Ads": 144,
+        "TimeSpentOnAds": 8700
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 1,
+        "Pages": 464,
+        "Associations": 18,
+        "Ads": 113,
+        "TimeSpentOnAds": 13691
+      },
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 1,
+        "Pages": 1006,
+        "Associations": 11,
+        "Ads": 27,
+        "TimeSpentOnAds": 6078
+      }
+    ]
+  },
+  {
+    "Username": "Moses",
+    "Name": "Moses",
+    "Surname": "Evans",
+    "Email": "susanfarmer@microluxe.com",
+    "Password": "password",
+    "Department": 3,
+    "RegisteredSince": "2017-01-19",
+    "LastActive": "2017-01-19",
+    "Results": [
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 1,
+        "Pages": 1039,
+        "Associations": 30,
+        "Ads": 218,
+        "TimeSpentOnAds": 11160
+      },
+      {
+        "DateAdded": "2018-09-06",
+        "Shift": 3,
+        "Pages": 78,
+        "Associations": 20,
+        "Ads": 208,
+        "TimeSpentOnAds": 10389
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 2,
+        "Pages": 473,
+        "Associations": 18,
+        "Ads": 43,
+        "TimeSpentOnAds": 6078
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 1,
+        "Pages": 806,
+        "Associations": 3,
+        "Ads": 132,
+        "TimeSpentOnAds": 4928
+      },
+      {
+        "DateAdded": "2018-09-02",
+        "Shift": 1,
+        "Pages": 142,
+        "Associations": 13,
+        "Ads": 112,
+        "TimeSpentOnAds": 2833
+      },
+      {
+        "DateAdded": "2018-09-02",
+        "Shift": 3,
+        "Pages": 364,
+        "Associations": 18,
+        "Ads": 67,
+        "TimeSpentOnAds": 14567
+      },
+      {
+        "DateAdded": "2018-08-30",
+        "Shift": 2,
+        "Pages": 972,
+        "Associations": 14,
+        "Ads": 15,
+        "TimeSpentOnAds": 1200
+      },
+      {
+        "DateAdded": "2018-09-01",
+        "Shift": 3,
+        "Pages": 635,
+        "Associations": 24,
+        "Ads": 130,
+        "TimeSpentOnAds": 6176
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 1,
+        "Pages": 102,
+        "Associations": 10,
+        "Ads": 217,
+        "TimeSpentOnAds": 15597
+      },
+      {
+        "DateAdded": "2018-09-05",
+        "Shift": 1,
+        "Pages": 609,
+        "Associations": 10,
+        "Ads": 90,
+        "TimeSpentOnAds": 17527
+      }
+    ]
+  },
+  {
+    "Username": "Banks",
+    "Name": "Banks",
+    "Surname": "Lloyd",
+    "Email": "luannknowles@zboo.com",
+    "Password": "password",
+    "Department": 3,
+    "RegisteredSince": "2018-05-23",
+    "LastActive": "2018-05-23",
+    "Results": [
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 3,
+        "Pages": 224,
+        "Associations": 28,
+        "Ads": 2,
+        "TimeSpentOnAds": 5212
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 1,
+        "Pages": 790,
+        "Associations": 17,
+        "Ads": 131,
+        "TimeSpentOnAds": 7764
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 3,
+        "Pages": 838,
+        "Associations": 16,
+        "Ads": 118,
+        "TimeSpentOnAds": 8204
+      },
+      {
+        "DateAdded": "2018-09-06",
+        "Shift": 1,
+        "Pages": 143,
+        "Associations": 2,
+        "Ads": 223,
+        "TimeSpentOnAds": 14839
+      },
+      {
+        "DateAdded": "2018-09-05",
+        "Shift": 2,
+        "Pages": 1188,
+        "Associations": 23,
+        "Ads": 1,
+        "TimeSpentOnAds": 932
+      },
+      {
+        "DateAdded": "2018-09-04",
+        "Shift": 1,
+        "Pages": 692,
+        "Associations": 9,
+        "Ads": 109,
+        "TimeSpentOnAds": 13849
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 1,
+        "Pages": 1134,
+        "Associations": 3,
+        "Ads": 18,
+        "TimeSpentOnAds": 3158
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 2,
+        "Pages": 908,
+        "Associations": 0,
+        "Ads": 217,
+        "TimeSpentOnAds": 4835
+      },
+      {
+        "DateAdded": "2018-09-06",
+        "Shift": 3,
+        "Pages": 128,
+        "Associations": 0,
+        "Ads": 91,
+        "TimeSpentOnAds": 1015
+      },
+      {
+        "DateAdded": "2018-09-01",
+        "Shift": 1,
+        "Pages": 245,
+        "Associations": 19,
+        "Ads": 210,
+        "TimeSpentOnAds": 12884
+      }
+    ]
+  },
+  {
+    "Username": "Galloway",
+    "Name": "Galloway",
+    "Surname": "David",
+    "Email": "alfordlucas@conferia.com",
+    "Password": "password",
+    "Department": 3,
+    "RegisteredSince": "2017-03-25",
+    "LastActive": "2017-03-25",
+    "Results": [
+      {
+        "DateAdded": "2018-09-02",
+        "Shift": 3,
+        "Pages": 1065,
+        "Associations": 6,
+        "Ads": 242,
+        "TimeSpentOnAds": 6809
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 1,
+        "Pages": 1047,
+        "Associations": 8,
+        "Ads": 124,
+        "TimeSpentOnAds": 6793
+      },
+      {
+        "DateAdded": "2018-09-05",
+        "Shift": 3,
+        "Pages": 843,
+        "Associations": 23,
+        "Ads": 152,
+        "TimeSpentOnAds": 3715
+      },
+      {
+        "DateAdded": "2018-09-06",
+        "Shift": 1,
+        "Pages": 1072,
+        "Associations": 8,
+        "Ads": 44,
+        "TimeSpentOnAds": 5190
+      },
+      {
+        "DateAdded": "2018-09-01",
+        "Shift": 3,
+        "Pages": 20,
+        "Associations": 6,
+        "Ads": 143,
+        "TimeSpentOnAds": 13805
+      },
+      {
+        "DateAdded": "2018-08-30",
+        "Shift": 3,
+        "Pages": 633,
+        "Associations": 6,
+        "Ads": 16,
+        "TimeSpentOnAds": 5878
+      },
+      {
+        "DateAdded": "2018-09-05",
+        "Shift": 3,
+        "Pages": 597,
+        "Associations": 27,
+        "Ads": 116,
+        "TimeSpentOnAds": 1711
+      },
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 2,
+        "Pages": 279,
+        "Associations": 17,
+        "Ads": 190,
+        "TimeSpentOnAds": 9791
+      },
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 2,
+        "Pages": 1010,
+        "Associations": 6,
+        "Ads": 285,
+        "TimeSpentOnAds": 16396
+      },
+      {
+        "DateAdded": "2018-08-30",
+        "Shift": 2,
+        "Pages": 354,
+        "Associations": 13,
+        "Ads": 272,
+        "TimeSpentOnAds": 4158
+      }
+    ]
+  },
+  {
+    "Username": "Cross",
+    "Name": "Cross",
+    "Surname": "Bishop",
+    "Email": "comptonfoley@zyple.com",
+    "Password": "password",
+    "Department": 1,
+    "RegisteredSince": "2016-10-29",
+    "LastActive": "2016-10-29",
+    "Results": [
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 2,
+        "Pages": 6,
+        "Associations": 22,
+        "Ads": 278,
+        "TimeSpentOnAds": 11936
+      },
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 1,
+        "Pages": 624,
+        "Associations": 0,
+        "Ads": 244,
+        "TimeSpentOnAds": 13751
+      },
+      {
+        "DateAdded": "2018-09-02",
+        "Shift": 2,
+        "Pages": 726,
+        "Associations": 7,
+        "Ads": 266,
+        "TimeSpentOnAds": 17620
+      },
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 1,
+        "Pages": 711,
+        "Associations": 11,
+        "Ads": 284,
+        "TimeSpentOnAds": 1724
+      },
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 2,
+        "Pages": 565,
+        "Associations": 3,
+        "Ads": 209,
+        "TimeSpentOnAds": 9220
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 1,
+        "Pages": 455,
+        "Associations": 8,
+        "Ads": 177,
+        "TimeSpentOnAds": 14401
+      },
+      {
+        "DateAdded": "2018-09-04",
+        "Shift": 1,
+        "Pages": 456,
+        "Associations": 17,
+        "Ads": 163,
+        "TimeSpentOnAds": 9275
+      },
+      {
+        "DateAdded": "2018-09-04",
+        "Shift": 3,
+        "Pages": 1116,
+        "Associations": 5,
+        "Ads": 27,
+        "TimeSpentOnAds": 6037
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 1,
+        "Pages": 771,
+        "Associations": 18,
+        "Ads": 239,
+        "TimeSpentOnAds": 8930
+      },
+      {
+        "DateAdded": "2018-08-30",
+        "Shift": 1,
+        "Pages": 565,
+        "Associations": 1,
+        "Ads": 294,
+        "TimeSpentOnAds": 10366
+      }
+    ]
+  },
+  {
+    "Username": "Velasquez",
+    "Name": "Velasquez",
+    "Surname": "Ingram",
+    "Email": "gracielafranks@cognicode.com",
+    "Password": "password",
+    "Department": 3,
+    "RegisteredSince": "2016-07-23",
+    "LastActive": "2016-07-23",
+    "Results": [
+      {
+        "DateAdded": "2018-09-02",
+        "Shift": 1,
+        "Pages": 416,
+        "Associations": 13,
+        "Ads": 254,
+        "TimeSpentOnAds": 834
+      },
+      {
+        "DateAdded": "2018-09-05",
+        "Shift": 2,
+        "Pages": 759,
+        "Associations": 9,
+        "Ads": 113,
+        "TimeSpentOnAds": 13892
+      },
+      {
+        "DateAdded": "2018-09-01",
+        "Shift": 3,
+        "Pages": 744,
+        "Associations": 3,
+        "Ads": 233,
+        "TimeSpentOnAds": 10916
+      },
+      {
+        "DateAdded": "2018-09-06",
+        "Shift": 1,
+        "Pages": 969,
+        "Associations": 22,
+        "Ads": 127,
+        "TimeSpentOnAds": 15099
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 2,
+        "Pages": 729,
+        "Associations": 21,
+        "Ads": 118,
+        "TimeSpentOnAds": 10382
+      },
+      {
+        "DateAdded": "2018-08-30",
+        "Shift": 1,
+        "Pages": 720,
+        "Associations": 22,
+        "Ads": 292,
+        "TimeSpentOnAds": 17103
+      },
+      {
+        "DateAdded": "2018-08-30",
+        "Shift": 3,
+        "Pages": 110,
+        "Associations": 21,
+        "Ads": 134,
+        "TimeSpentOnAds": 6726
+      },
+      {
+        "DateAdded": "2018-09-05",
+        "Shift": 3,
+        "Pages": 651,
+        "Associations": 13,
+        "Ads": 22,
+        "TimeSpentOnAds": 8018
+      },
+      {
+        "DateAdded": "2018-09-02",
+        "Shift": 2,
+        "Pages": 575,
+        "Associations": 11,
+        "Ads": 268,
+        "TimeSpentOnAds": 15109
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 1,
+        "Pages": 520,
+        "Associations": 3,
+        "Ads": 283,
+        "TimeSpentOnAds": 15556
+      }
+    ]
+  },
+  {
+    "Username": "Larson",
+    "Name": "Larson",
+    "Surname": "Ford",
+    "Email": "ferncraft@geekology.com",
+    "Password": "password",
+    "Department": 2,
+    "RegisteredSince": "2016-08-11",
+    "LastActive": "2016-08-11",
+    "Results": [
+      {
+        "DateAdded": "2018-09-01",
+        "Shift": 2,
+        "Pages": 927,
+        "Associations": 6,
+        "Ads": 162,
+        "TimeSpentOnAds": 11127
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 1,
+        "Pages": 857,
+        "Associations": 3,
+        "Ads": 197,
+        "TimeSpentOnAds": 10852
+      },
+      {
+        "DateAdded": "2018-09-06",
+        "Shift": 1,
+        "Pages": 820,
+        "Associations": 26,
+        "Ads": 227,
+        "TimeSpentOnAds": 3766
+      },
+      {
+        "DateAdded": "2018-09-06",
+        "Shift": 3,
+        "Pages": 570,
+        "Associations": 19,
+        "Ads": 147,
+        "TimeSpentOnAds": 10633
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 1,
+        "Pages": 825,
+        "Associations": 3,
+        "Ads": 242,
+        "TimeSpentOnAds": 9576
+      },
+      {
+        "DateAdded": "2018-09-01",
+        "Shift": 2,
+        "Pages": 852,
+        "Associations": 3,
+        "Ads": 154,
+        "TimeSpentOnAds": 9420
+      },
+      {
+        "DateAdded": "2018-09-04",
+        "Shift": 3,
+        "Pages": 55,
+        "Associations": 18,
+        "Ads": 276,
+        "TimeSpentOnAds": 4957
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 2,
+        "Pages": 974,
+        "Associations": 28,
+        "Ads": 264,
+        "TimeSpentOnAds": 945
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 2,
+        "Pages": 1096,
+        "Associations": 0,
+        "Ads": 67,
+        "TimeSpentOnAds": 7887
+      },
+      {
+        "DateAdded": "2018-09-04",
+        "Shift": 3,
+        "Pages": 760,
+        "Associations": 6,
+        "Ads": 18,
+        "TimeSpentOnAds": 5458
+      }
+    ]
+  },
+  {
+    "Username": "Mcintyre",
+    "Name": "Mcintyre",
+    "Surname": "Thornton",
+    "Email": "kellieshaffer@earthpure.com",
+    "Password": "password",
+    "Department": 1,
+    "RegisteredSince": "2017-07-14",
+    "LastActive": "2017-07-14",
+    "Results": [
+      {
+        "DateAdded": "2018-08-30",
+        "Shift": 1,
+        "Pages": 680,
+        "Associations": 26,
+        "Ads": 129,
+        "TimeSpentOnAds": 3258
+      },
+      {
+        "DateAdded": "2018-09-04",
+        "Shift": 3,
+        "Pages": 539,
+        "Associations": 8,
+        "Ads": 244,
+        "TimeSpentOnAds": 17671
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 3,
+        "Pages": 920,
+        "Associations": 14,
+        "Ads": 174,
+        "TimeSpentOnAds": 2516
+      },
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 2,
+        "Pages": 679,
+        "Associations": 13,
+        "Ads": 257,
+        "TimeSpentOnAds": 4017
+      },
+      {
+        "DateAdded": "2018-08-30",
+        "Shift": 1,
+        "Pages": 110,
+        "Associations": 3,
+        "Ads": 234,
+        "TimeSpentOnAds": 7772
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 1,
+        "Pages": 172,
+        "Associations": 20,
+        "Ads": 139,
+        "TimeSpentOnAds": 14920
+      },
+      {
+        "DateAdded": "2018-09-05",
+        "Shift": 3,
+        "Pages": 420,
+        "Associations": 5,
+        "Ads": 19,
+        "TimeSpentOnAds": 13337
+      },
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 2,
+        "Pages": 946,
+        "Associations": 29,
+        "Ads": 234,
+        "TimeSpentOnAds": 5708
+      },
+      {
+        "DateAdded": "2018-09-06",
+        "Shift": 1,
+        "Pages": 797,
+        "Associations": 8,
+        "Ads": 137,
+        "TimeSpentOnAds": 4472
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 3,
+        "Pages": 635,
+        "Associations": 15,
+        "Ads": 80,
+        "TimeSpentOnAds": 11937
+      }
+    ]
+  },
+  {
+    "Username": "Franco",
+    "Name": "Franco",
+    "Surname": "Carson",
+    "Email": "candymeadows@enjola.com",
+    "Password": "password",
+    "Department": 2,
+    "RegisteredSince": "2016-10-29",
+    "LastActive": "2016-10-29",
+    "Results": [
+      {
+        "DateAdded": "2018-09-06",
+        "Shift": 2,
+        "Pages": 1019,
+        "Associations": 5,
+        "Ads": 271,
+        "TimeSpentOnAds": 8260
+      },
+      {
+        "DateAdded": "2018-09-04",
+        "Shift": 2,
+        "Pages": 422,
+        "Associations": 26,
+        "Ads": 25,
+        "TimeSpentOnAds": 16014
+      },
+      {
+        "DateAdded": "2018-09-01",
+        "Shift": 3,
+        "Pages": 283,
+        "Associations": 5,
+        "Ads": 51,
+        "TimeSpentOnAds": 1418
+      },
+      {
+        "DateAdded": "2018-09-04",
+        "Shift": 2,
+        "Pages": 823,
+        "Associations": 28,
+        "Ads": 85,
+        "TimeSpentOnAds": 11038
+      },
+      {
+        "DateAdded": "2018-09-06",
+        "Shift": 2,
+        "Pages": 1112,
+        "Associations": 28,
+        "Ads": 140,
+        "TimeSpentOnAds": 17105
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 3,
+        "Pages": 1157,
+        "Associations": 1,
+        "Ads": 231,
+        "TimeSpentOnAds": 3507
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 3,
+        "Pages": 1077,
+        "Associations": 23,
+        "Ads": 125,
+        "TimeSpentOnAds": 12591
+      },
+      {
+        "DateAdded": "2018-09-01",
+        "Shift": 3,
+        "Pages": 1182,
+        "Associations": 24,
+        "Ads": 272,
+        "TimeSpentOnAds": 1228
+      },
+      {
+        "DateAdded": "2018-09-02",
+        "Shift": 3,
+        "Pages": 114,
+        "Associations": 20,
+        "Ads": 201,
+        "TimeSpentOnAds": 13859
+      },
+      {
+        "DateAdded": "2018-08-31",
+        "Shift": 1,
+        "Pages": 462,
+        "Associations": 10,
+        "Ads": 96,
+        "TimeSpentOnAds": 15750
+      }
+    ]
+  },
+  {
+    "Username": "Vasquez",
+    "Name": "Vasquez",
+    "Surname": "Goff",
+    "Email": "cranesnow@isostream.com",
+    "Password": "password",
+    "Department": 1,
+    "RegisteredSince": "2016-08-25",
+    "LastActive": "2016-08-25",
+    "Results": [
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 2,
+        "Pages": 481,
+        "Associations": 27,
+        "Ads": 164,
+        "TimeSpentOnAds": 10505
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 1,
+        "Pages": 530,
+        "Associations": 24,
+        "Ads": 189,
+        "TimeSpentOnAds": 13907
+      },
+      {
+        "DateAdded": "2018-09-01",
+        "Shift": 2,
+        "Pages": 38,
+        "Associations": 21,
+        "Ads": 247,
+        "TimeSpentOnAds": 4199
+      },
+      {
+        "DateAdded": "2018-09-06",
+        "Shift": 1,
+        "Pages": 1141,
+        "Associations": 20,
+        "Ads": 205,
+        "TimeSpentOnAds": 4392
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 2,
+        "Pages": 312,
+        "Associations": 13,
+        "Ads": 34,
+        "TimeSpentOnAds": 7269
+      },
+      {
+        "DateAdded": "2018-08-29",
+        "Shift": 3,
+        "Pages": 1141,
+        "Associations": 1,
+        "Ads": 300,
+        "TimeSpentOnAds": 5400
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 2,
+        "Pages": 345,
+        "Associations": 11,
+        "Ads": 246,
+        "TimeSpentOnAds": 1418
+      },
+      {
+        "DateAdded": "2018-08-30",
+        "Shift": 2,
+        "Pages": 613,
+        "Associations": 26,
+        "Ads": 63,
+        "TimeSpentOnAds": 14694
+      },
+      {
+        "DateAdded": "2018-09-03",
+        "Shift": 1,
+        "Pages": 1188,
+        "Associations": 13,
+        "Ads": 107,
+        "TimeSpentOnAds": 5201
+      },
+      {
+        "DateAdded": "2018-09-02",
+        "Shift": 2,
+        "Pages": 119,
+        "Associations": 5,
+        "Ads": 186,
+        "TimeSpentOnAds": 12480
+      }
+    ]
+  }
+]

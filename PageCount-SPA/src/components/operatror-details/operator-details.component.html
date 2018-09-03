@@ -1,0 +1,58 @@
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-sm-4 text-center">
+      <div class="card">
+        <img class="card-img-top img-thumbnail" src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/user.png" alt="{{user.username}}">
+        <div class="card-body">
+          <div>
+            <strong>Department:</strong>
+            <p>{{user.department == 1? "Supplied" : (user.department == 2? "Retail" : (user.department == 3? "Plus" : "Books"))}}</p>
+          </div>
+          <div>
+            <strong>Member since:</strong>
+            <p>{{user.registeredSince | date: 'MM-dd-yyyy'}}</p>
+          </div>
+          <div>
+            <strong>Last Active:</strong>
+            <p>{{user.lastActive | date: 'MM-dd-yyyy'}}</p>
+          </div>
+          <div>
+            <strong>E-mail:</strong>
+            <p>mailto:{{user.email}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-8">
+      <div class="tab-panel">
+        <tabset>
+          <tab heading="Last Activity">
+            <div [hidden]="!chart">
+              <canvas id="canvas" class="mt-5">{{ chart }}</canvas>
+            </div>
+          </tab>
+          <tab heading="Historical Data">
+            <table class="table-striped table-bordered">
+              <tr>
+                <th><a>Info</a></th>
+                <th><a (click)="sortType('date')">Date</a></th>
+                <th><a (click)="sortType('pages')">Pages</a></th>
+                <th><a (click)="sortType('associations')">Associations</a></th>
+                <th *ngIf="user.department==1"><a (click)="sortType('ads')">Ads</a></th>
+                <th *ngIf="user.department==1"><a (click)="sortType('adsTime')">Ads - Time</a></th>
+              </tr>
+              <tr *ngFor="let result of user.results | orderBy:'-dateAdded' ">
+                <td [routerLink]="['/results/', result.id]" ><i class="fa fa-info-circle"></i></td>
+                <td>{{ result.dateAdded | date: 'MM-dd-yyyy' }}</td>
+                <td>{{ result.pages }}</td>
+                <td>{{ result.associations }}</td>
+                <td>{{ result.ads }}</td>
+                <td>{{ result.timeSpentOnAds }}</td>
+              </tr>
+            </table>
+          </tab>
+        </tabset>
+      </div>
+    </div>
+  </div>
+</div>

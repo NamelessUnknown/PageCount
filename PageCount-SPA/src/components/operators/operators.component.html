@@ -1,0 +1,32 @@
+<div class="container">
+  <div class="row justify-content-center">
+
+<div class="form-group text-center">
+    <h2>Operators</h2>
+
+<form>
+      <input type="radio" name="model" [(ngModel)]="model" value="All">All
+      <input type="radio" name="model" [(ngModel)]="model" value="Supplied">Supplied
+      <input type="radio" name="model" [(ngModel)]="model" value="Retail">Retail
+      <input type="radio" name="model" [(ngModel)]="model" value="Plus">Plus
+      <input type="radio" name="model" [(ngModel)]="model" value="Books">Books
+    </form>
+      <br>
+  <button class="btn btn-success" type="submit">OPERATORS HERE</button>
+  <button class="btn btn-default" type="button" (click)="cancel()"><i class="fa fa-backward"></i> Go Back</button>
+
+  <form id="filter">
+    <label>Type in Operators name or surname...</label><br>
+    <input type="text" [(ngModel)]="clue" name="clue">
+  </form>
+</div>
+
+<div class="containter mt-5">
+    <div class="row">
+      <div *ngFor="let user of users | filter:clue | radio:model" class="col-lg-2 col-md-3 col-sm-6">
+        <app-operator-card [user]="user"></app-operator-card>
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
